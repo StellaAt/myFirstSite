@@ -1,0 +1,27 @@
+body
+{
+		background-color:#FFF3CD;
+}
+h1
+{ 
+		background-color:#d7d2d2;
+		color:black;
+		font-family: Verdara;
+		
+}
+.menu	
+{
+		background-color:#91C788;
+		color:#C1FFD7;
+		margin-right: 12px;
+		text-decoration:none;
+		border: 5px solid #ECF87F;
+}
+a.menu:hover
+{
+		background-color:##FFF3CD;
+		color:#81B622;
+		margin-right: 12px;
+		text-decoration:none;
+		border: 5px solid red;
+}
